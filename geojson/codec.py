@@ -12,7 +12,7 @@ except ImportError:
     
 import geojson
 import geojson.factory
-from geojson.mapping import is_mapping, to_mapping, GEO_INTERFACE_MARKER
+from geojson.mapping import to_mapping
 
 
 class GeoJSONEncoder(json.JSONEncoder):

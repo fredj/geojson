@@ -12,7 +12,6 @@ interface.
 """
 
 from geojson.base import GeoJSON
-import geojson.geometry 
 
 
 class Feature(GeoJSON):

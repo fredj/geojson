@@ -1,5 +1,5 @@
 
-from geojson.mapping import is_mapping, to_mapping
+from geojson.mapping import to_mapping
 import geojson
 import geojson.factory
 
